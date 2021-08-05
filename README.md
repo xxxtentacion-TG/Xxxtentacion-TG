@@ -2,7 +2,7 @@
 <h3 align="left">HI I AM XXXTENTACION-TG</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning python 
-- 📫 How to reach ? -> You can reach me through telegram [xxxtentacion-TG](https://t.me/XXXTENTACION_OF_TG)
+- 📫 How to reach ? -> You can reach me through telegram [xxxtentacion-TG](https://t.me/Xxxtentacion_TG)
 
 
 <!---this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
